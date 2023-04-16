@@ -1,2 +1,2 @@
 # Machine-learning
-Groupe Project 
+Group Project 
